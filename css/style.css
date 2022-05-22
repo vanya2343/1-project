@@ -122,3 +122,9 @@ li:active{
     background-color: #47a3aa;
     color: rgb(0, 4, 63);
 }
+
+.space {
+    position: relative;
+    width: 100%;
+    height: 2%;
+  }

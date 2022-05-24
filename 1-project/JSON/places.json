@@ -1,0 +1,50 @@
+{
+    "comfy":[
+        {
+            "name": "Бил шифр",
+            "discription": "Вы магическое создание, могущественный демон, способный войти в подсознание человека, а также главный антагонист",
+            "adress": "",
+            "image": "img/Бил шифр.jpg"
+        }
+    ],
+    "active":[
+        {
+            "name": "Дядя стен",
+            "discription": "вы очень экономичный человек, иногда даже слишком, ищите любой способ заработать",
+            "adress": "",
+            "image": "img/Дядя стен.jpg"
+        }
+    ],
+    "regular":[
+        {
+            "name": "Дипер",
+            "discription": "вы",
+            "adress": "",
+            "image": "img/Дипер.jpg"
+        }
+    ],
+    "unique":[
+        {
+            "name": "Мейбл",
+            "discription": "вы",
+            "adress": "",
+            "image": "img/Мейбл.png"
+        }
+    ],
+    "graviti":[
+        {
+            "name": "Форд пайнс",
+            "discription": "вы",
+            "adress": "",
+            "image": "img/Форд пайнс.jpg"
+        }
+    ],
+    "folz":[
+        {
+            "name": "Зус",
+            "discription": "вы",
+            "adress": "",
+            "image": "img/зус.jpg"
+        }
+    ]
+}

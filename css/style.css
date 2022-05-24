@@ -18,18 +18,12 @@ html, body {
 
 }
 .container{
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/693740\ 1.png) center no-repeat;
+    background-size: cover;
     position: relative;
     display: block;
     height: 100%;
-    max-width: 1200px;
-    left: 50%;
-    -webkit-transform: translate(-50%, 0);
-    transform: translate(-50%, 0);
-
-}
-body{
-    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/693740\ 1.png) center no-repeat;
-    background-size: cover;
+    
 }
 .welcome{
     font-family: 'Montserrat';
@@ -48,7 +42,7 @@ body{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
-    font-size: 50px;
+    font-size: 64px;
     line-height: 78px;
     /* identical to box height */
 
@@ -59,72 +53,11 @@ body{
     color: #000f99;
 
     text-shadow: 4px 4px 4px rgba(57, 57, 57, 0.44);
-    padding: 0% 10%;
+    padding: 1.2% 44%;
     margin: 10px;
     justify-content: center;
-    position: absolute;
-    bottom: 7%;
-    left: 50%;
-    -webkit-transform: translate(-50%, 0);
-    transform: translate(-50%, 0);
 }
 .start:hover{
     background-color: #47a3aa;
     color: rgb(0, 4, 63);
 }
-li{
-    background: #376FB9;
-    margin-top: 10px;
-    padding: 15px 10px;
-    border-radius: 14px;
-    font-size: 30px;
-    cursor: pointer;
-    font-family: 'Montserrat';
-    list-style: none;
-    
-}
-li:hover{
-    background-color: #2e5a94;
-    color: rgb(161, 142, 142);
-}
-li:active{
-    background-color:#244879
-}
-.pref{
-    background: #000000;
-    box-shadow: 0px 0px 137px rgba(142, 224, 229, 0.5);
-    border-radius: 30px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 78px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-
-    color: #BDDAFF;
-
-    text-shadow: 4px 4px 4px rgba(57, 57, 57, 0.44);
-    padding: 0% 10%;
-    margin: 10px;
-    justify-content: center;
-    position: absolute;
-    bottom: 7%;
-    border: 4px solid #BDDAFF;
-    left: 50%;
-    -webkit-transform: translate(-50%, 0);
-    transform: translate(-50%, 0);
-}
-.start:hover{
-    background-color: #47a3aa;
-    color: rgb(0, 4, 63);
-}
-
-.space {
-    position: relative;
-    width: 100%;
-    height: 2%;
-  }
